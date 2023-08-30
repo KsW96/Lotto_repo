@@ -44,7 +44,11 @@
 4. 결과 화면
 ![image](https://github.com/KsW96/Lotto_repo/assets/134483514/5936cdfc-120f-4cf1-93a0-fb586faba62f)
 
-   
+## 실행방법
+1. Reference 에 포함되어 있는 zip 파일 다운
+2. zip 압축 해제
+3. jar 파일 실행
+
 
 
 ## 팀원
